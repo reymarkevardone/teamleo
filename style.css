@@ -1,0 +1,153 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+   margin:10px;
+   background-image: url('bodybg.png');
+   background-size: 100%;
+   margin-bottom: 0;
+   
+}
+
+.lolo{
+  margin: 0;
+  padding: 0;
+  background-image: url('image-one.jpeg');
+  width: 100%;
+  height: 200px;
+  
+  
+  
+}
+.topleft{
+  color: lightgreen;
+  margin-left:0;
+  position: center;
+  font-family: Stencil Std, fantasy;
+  font-size: 30px;
+}
+.topright{
+  color:lightgreen;
+  font-size: 30px;
+  margin-left: 50%;
+  position: center;
+  font-family: ;
+}
+.team{
+  border: 10px solid blue;
+  padding-left: 50px;
+   color: red;
+   background-color: none;
+  font-size: 70px;
+  font-family: Stencil Std, fantasy;
+  font-weight: bold;
+  text-shadow: 0 0 3px red;
+}
+.lola{
+  margin-top: 35px;
+  margin-bottom: 5px;
+  background-color: black;
+  width: 100%;
+  height: 400px;
+}
+.lola-two{
+  border: 5px solid red;
+  height: 390px;
+  width: 99%;
+  background-image: url('bgdos.jpeg');
+  background-size: 100%;
+}
+h2{
+  margin-top:45px;
+  text-align: center;
+  color:white;
+  font: bold;
+  font-size: 3.0em;
+}
+a{
+  margin: 50px;
+  margin-left: 26%;
+  background-color: none;
+  float: center;
+  color:GOLD;
+  font: bold;
+  font-size: 7.0em;
+  text-shadow: 0 0 3px red;
+}
+.uncle{
+  width: 100%;
+  height: 400px;
+}
+.web{
+  padding-left: 30%;
+  color:lightblue;
+  font-size: 100px;
+  font-family: bold;
+  font-display: none;
+}
+.unkol{
+  padding: 20px;
+}
+.manok{
+  float: left;
+  height: 300px;
+  width: 300px;
+  border:10px solid red;
+  border-radius: 50%;
+  
+}
+span{
+  height: 100%;
+  width: 100%;
+  float:ceter;
+}
+.log{
+  padding-left: 90px;
+  float:left;
+  height: 200px;
+  width: 450px;
+
+}
+hr{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 5px;
+  color:red;
+}
+.tatay{
+  margin-top: 50px;
+  background-image: url('fitbg.png');
+  border: 5px solid red;
+  width: 100%;
+  height: 400px;
+  font-size: 50px;
+  font-family:bold;
+  font-display: none;
+  
+}
+.dule{
+  padding-left: 100px;
+  background-color:black;
+  color:white;
+
+
+}
+.nanay-one{
+  background-image: url('fitbg.png');
+  height: 71%;
+  width: 100%;
+}
+.try{
+  padding: 0;
+  margin: 0;
+}
+.sced-one{
+  margin: 0;
+  padding-left:280px;
+  float:center;
+  height: 250px;
+  width: 450px;
+  
+}
